@@ -1,5 +1,9 @@
 # hl1-scripts-temporary-
-\*some description\*
+**This is a github covering all the scripts that we use in Half-Life Scripted category route
+Made by hsci and javac
+This github is temporary for now (only missing few scripts as i do not have them.)
+(Maybe it will be permanent because i cannot publish the main one as i am not the one to create the repository
+and there has been no work on the main one for months.)**
 
 # Table of Contents
 - [Basic scripts](#a-basic-scripts)
