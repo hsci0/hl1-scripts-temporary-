@@ -1033,7 +1033,7 @@ bind h ptpmove1
   
   </details>
 
- #### 🟡 Javac's Hole In One P2P Script
+ #### 🟡 Javac's Hole In One P2P Script (will be added on main github)
 
   
  </details>
@@ -1094,7 +1094,7 @@ https://github.com/user-attachments/assets/e3635e60-279f-4404-9e5e-f20b57c2512a
 
   </details>
 
-#### 🟡 Smg CLD with fast ladder climb
+#### 🟡 Smg CLD with fast ladder climb (will be added on main github)
 
 
 #### 🟠 Grenade CLD
@@ -1148,7 +1148,7 @@ https://github.com/user-attachments/assets/bce50158-6c12-410f-a647-aedc00a3a27b
   
 Example: `bind key "+wc"`
 
-### 26. Smg Boost Scripts
+### 26. Smg Boost Scripts (will be added on main github)
 
 
 
