@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/d1f12655-62ac-4a60-956f-caf7245da6bc
 # hl1-scripts-temporary-
 **This is a github covering all the scripts that we use in Half-Life Scripted category route**
 
@@ -537,7 +539,7 @@ Example: `bind key +bpjb1`
 <details>
   <summary>📼Video Guide📼</summary>
   
-https://github.com/user-attachments/assets/a2cb5c0c-0c9c-4b84-8c62-4770badde94b
+https://github.com/user-attachments/assets/ad97c063-d7fa-44d1-9eec-68f570cd4fd9
 
   </details>
 
@@ -565,7 +567,7 @@ Example: `bind key +bpjb2`
 <details>
   <summary>📼Video Guide📼</summary>
   
-https://github.com/user-attachments/assets/b18dd592-c1b2-4497-950d-a65763b3e3ed
+https://github.com/user-attachments/assets/c77225b8-19ef-4326-bd38-3c8c22ee5971
 
   </details>
 
@@ -593,7 +595,7 @@ Example: `bind key +bpjb3`
 <details>
   <summary>📼Video Guide📼</summary>
   
-https://github.com/user-attachments/assets/c69e2f7f-11da-40d4-b480-cc245cc9fdb0
+https://github.com/user-attachments/assets/6e3f3331-f90a-4499-a505-0fbcaed0dde3
 
   </details>
 
@@ -621,7 +623,7 @@ Example: `bind key +bpjb4`
 <details>
   <summary>📼Video Guide📼</summary>
   
-https://github.com/user-attachments/assets/23bf2d50-a205-43b2-b4c6-de5e4a8dbf95
+https://github.com/user-attachments/assets/6b1d0c9e-a9a3-4f22-a418-040669361139
 
   </details>
 
@@ -639,7 +641,7 @@ Example: `bind key "bp_nade2"`
 <details>
   <summary>📼Video Guide📼</summary>
   
-https://github.com/user-attachments/assets/9fdc0f7c-3739-4e50-ac59-0fc1beaa2976
+https://github.com/user-attachments/assets/058a2196-761b-401b-85e0-44f280b1c3a7
 
   </details>
   
@@ -653,7 +655,7 @@ Example: `bind key "bp_nade3"`
 <details>
   <summary>📼Video Guide📼</summary>
   
-https://github.com/user-attachments/assets/1d0bab80-0d45-4576-82b3-a7eafec3fe5b
+https://github.com/user-attachments/assets/9ab3d232-e1aa-44a4-84ec-5b5736c10cee
 
   </details>
 
@@ -668,7 +670,7 @@ Example: `bind key "bpbutton2"`
 <details>
   <summary>📼Video Guide📼</summary>
   
-https://github.com/user-attachments/assets/9351dbc4-6465-46af-b5cf-1738cb6fa574
+https://github.com/user-attachments/assets/9c0e71d0-b621-4af2-afe6-d51b534e6a66
 
   </details>
 
@@ -708,7 +710,7 @@ alias move
 <details>
   <summary>📼Video Guide📼</summary>
   
-https://github.com/user-attachments/assets/74b9a510-18cd-4087-9d80-1a6206a7d13d
+https://github.com/user-attachments/assets/ec1b08e5-ae5f-4cff-9e46-77152a86806e
 
   </details>
 
@@ -749,7 +751,7 @@ Walk forward and activate the script as you walk across the level change trigger
 <details>
   <summary>📼Video Guide📼</summary>
   
-https://github.com/user-attachments/assets/33a614b2-d5ce-4c87-8976-fb3b5afc06c8
+https://github.com/user-attachments/assets/d2b9b527-ff4c-4fe1-806e-76eb15057fda
 
   </details>
 
@@ -763,7 +765,7 @@ Example: `bind key puskip`
 <details>
   <summary>📼Video Guide📼</summary>
   
-https://github.com/user-attachments/assets/6ece04ab-acfb-410a-8578-b615b72dc9d3
+https://github.com/user-attachments/assets/c5d3a349-61f5-4183-8f03-1c31150d23c1
 
   </details>
 
@@ -813,7 +815,7 @@ Example: `bind key +oarjb1`
  <details>
   <summary>📼Video Guide📼</summary>
 
-https://github.com/user-attachments/assets/8941b401-79c4-45bb-baee-cb370f084e6d
+https://github.com/user-attachments/assets/18586a04-371b-4058-8509-a863a2bbb768
 
   </details>
  
@@ -843,7 +845,7 @@ Example: `bind key +oarjb2`
 <details>
  <summary>📼Video Guide📼</summary>
 
-https://github.com/user-attachments/assets/871d363d-d7ec-437e-bf92-d3d72bf17d74
+https://github.com/user-attachments/assets/1dfcf9c6-b59f-47ec-9e6d-b732d8aa2246
 
   </details>
 
@@ -864,7 +866,7 @@ Example: `bind key "oarobbobind; noi"`
  <details>
    <summary>📼Video Guide📼</summary>
 
-https://github.com/user-attachments/assets/6a65b678-a4a4-4c22-9e75-0c507d95fc6c
+https://github.com/user-attachments/assets/03ecda00-e9f6-401b-902a-e21fe22d42d0
 
 </details>
 
@@ -892,7 +894,7 @@ alias mg2 "+use;w 18;-use;fps_max 100;w 30;-duck;w 35; +jump; w 10; -jump; alias
 <details>
   <summary>📼Video Guide📼</summary>
 
-https://github.com/user-attachments/assets/cc3236c9-4a0d-40fb-820f-1047aa5835e2
+https://github.com/user-attachments/assets/d0c5f127-e997-4e25-b45a-858ec6c13706
 
   </details>
 
@@ -905,7 +907,7 @@ alias rpclip "cl_pitchdown 89;cl_pitchup -89;fps_max 20.2;+attack;w;weapon_crowb
 <details>
   <summary>📼Video Guide📼</summary>
 
-https://github.com/user-attachments/assets/f13a3cac-dcbb-445e-a663-dd701d6a38e9
+https://github.com/user-attachments/assets/a5b775fe-8294-4764-a8cb-023ec4d0d311
 
   </details>
 
@@ -937,7 +939,7 @@ alias sst7 "alias sstmove; w 30; -moveright; -right; tau; w 25; -jump; cl_pitchd
 <details>
   <summary>📼Video Guide📼</summary>
 
-https://github.com/user-attachments/assets/b7cf65e0-5aaf-4bd0-abe1-d05d5b21822a
+https://github.com/user-attachments/assets/af59c780-0abb-47be-8a60-d28fa4a533e7
 
   </details>
 
@@ -974,7 +976,7 @@ bind f10 +right //1
 <details>
   <summary>📼Video Guide📼</summary>
 
-https://github.com/user-attachments/assets/c1c5ca51-0e94-4b83-877f-c0bd2be1e947
+https://github.com/user-attachments/assets/18dd3fad-0e65-465b-9e98-cad22baa618a
 
   </details>
 
@@ -1036,8 +1038,8 @@ bind h ptpmove1
  <details>
   <summary>📼Video Guide📼</summary>
   
-  https://github.com/user-attachments/assets/ffbffe26-d0c3-4f61-983f-51a2d8b2e2bd
-  
+ https://github.com/user-attachments/assets/de5d64de-4eb9-4edb-9234-14c35b544900
+
   </details>
 
  #### 🟡 Javac's Hole In One P2P Script (will be added on main github)
@@ -1057,7 +1059,7 @@ Example: `bind key tausloo`
 <details>
   <summary>📼Video Guide📼</summary>
   
-https://github.com/user-attachments/assets/7a8a3b3c-8ccb-4cb5-8b81-b74e16819707
+https://github.com/user-attachments/assets/f3e9ff8e-3ec2-4e2c-bfdd-e20936752879
 
   </details>
 
@@ -1070,7 +1072,7 @@ Example: `bind key boostx`
 <details>
   <summary>📼Video Guide📼</summary>
   
-https://github.com/user-attachments/assets/954369ee-eb51-4a2e-82ff-80e47a811c3c
+https://github.com/user-attachments/assets/3cfa27f6-921c-4ad5-8556-1f2d053fa689
 
   </details>
 
@@ -1097,7 +1099,7 @@ Example: `bind key faf_e`
 <details>
   <summary>📼Video Guide📼</summary>
 
-https://github.com/user-attachments/assets/e3635e60-279f-4404-9e5e-f20b57c2512a
+https://github.com/user-attachments/assets/702a3020-a828-4730-a83a-c21baea35438
 
   </details>
 
@@ -1149,7 +1151,7 @@ alias dst "w8" (WAITING VALUE FOR SHOOTING. INCREASE IT IF YOU DONT HAVE ENOUGH 
 <details>
   <summary>📼Video Guide📼</summary>
   
-https://github.com/user-attachments/assets/bce50158-6c12-410f-a647-aedc00a3a27b
+https://github.com/user-attachments/assets/f71039f6-e244-4e5c-93c7-c7f556113366
 
   </details>
   
@@ -1187,7 +1189,7 @@ alias xenv2 "sensitivity 0; unpause; +attack2; w 10; -attack2; fps_max 97; w 40;
 <details>
   <summary>📼Video Guide📼</summary>
 
-https://github.com/user-attachments/assets/1df2eb19-dc8d-4264-9340-5d9c057f2a1d
+https://github.com/user-attachments/assets/7b3df925-8400-48b0-86d1-71f2226e881f
 
   </details>
 
@@ -1222,7 +1224,7 @@ alias xenv_dolb3 "w 13; -left; -moveleft; +bxt_tas_jumpbug; bxt_autopause 0; w 3
   <details>
   <summary>📼Video Guide📼</summary>
 
-https://github.com/user-attachments/assets/1356e7f6-a6c1-4852-875f-641789c8ff70
+https://github.com/user-attachments/assets/29df6345-e4fe-4593-bec8-cb019d62ca77
 
   </details>
   
