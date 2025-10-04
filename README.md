@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/d1f12655-62ac-4a60-956f-caf7245da6bc
 # hl1-scripts-temporary-
 **This is a github covering all the scripts that we use in Half-Life Scripted category route**
 
